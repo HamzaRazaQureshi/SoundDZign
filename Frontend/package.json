@@ -1,11 +1,11 @@
 {
+  "homepage": "https://myusername.github.io/SoundDZign",
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "homepage": "https://myusername.github.io",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
